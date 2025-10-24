@@ -15,7 +15,7 @@ tml
 <!-- Social Links -->
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fmynetwork%2Fdiscovery-see-all%3Fusecase%3DPEOPLE_FOLLOWS%26followMember%3Dmonisha-n-monisha-n-33997738a"/>
   </a>
   <a href="https://github.com/arjun-dev-27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
