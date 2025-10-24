@@ -39,7 +39,7 @@ tml
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,dataanalyst,sql" />
 </p>
 
 ### 🧩 Frameworks & Libraries
