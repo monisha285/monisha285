@@ -1,4 +1,4 @@
-html
+tml
 <!-- 🌌 ADVANCED GITHUB PROFILE README FOR MONISHA N -->
 <!-- Drop this in your GitHub http://README.md file directly -->
 
@@ -6,7 +6,7 @@ html
 
 <!-- Animated Typing Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&lines=👨‍💻+Arjun+Kumar;Full+Stack+Developer;Django+%7C+React+%7C+FastAPI+%7C+DevOps;Innovator+%26+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&lines=👨‍💻+monisha N;Data+Analyst;Innovator+%26+Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <!-- Gradient Banner -->
@@ -14,13 +14,13 @@ html
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/arjun-kumar-dev" target="_blank">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/arjun-dev-27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a mailto:href="mailto:arjun.kumar.dev@gmail.com" target="_blank">
+  <a mailto:href="mailto:monishan285@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://arjun-dev-portfolio.netlify.app" target="_blank">
@@ -113,8 +113,8 @@ html
 
 ## 🧭 Recent Activity
 <!--START_SECTION:activity-->
-1. ⚡ Created repository [arjun-dev-27/Django-FastAPI-Starter]  
-2. 🔥 Merged PR [#7] in [arjun-dev-27/SkillSprint]  
+1. ⚡ Created repository [monishan285/Django-FastAPI-Starter]  
+2. 🔥 Merged PR [#7] in [monishan285/SkillSprint]  
 3. 🚀 Deployed project [Portfolio Website] on Netlify  
 4. 🧠 Contributed to [Open Source FastAPI Repo]  
 <!--END_SECTION:activity-->
@@ -124,8 +124,6 @@ html
 ## 🕓 Coding Stats
 ```text
 Python       ████████████████████░░░░   82% 
-JavaScript   ████████████░░░░░░░░░░░   58%
-HTML/CSS     ████████████░░░░░░░░░░░   64%
 SQL          ████████░░░░░░░░░░░░░░░   45%
 ````
 
@@ -135,7 +133,7 @@ SQL          ████████░░░░░░░░░░░░░░�
 
 🎯 **Building scalable web apps with modern Python frameworks.**
 🌱 Currently exploring **AI integrations with FastAPI & React**.
-💬 Ask me about **APIs, backend architecture, or full-stack projects**.
+💬 Ask me about **data-analyst project**.
 ⚡ Fun Fact: “My code runs faster than my coffee machine.” ☕
 
 ---
